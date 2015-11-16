@@ -1,0 +1,8 @@
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\View\bin\Debug\View.exe.config
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\View\bin\Debug\View.exe
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\View\bin\Debug\View.pdb
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\View\bin\Debug\Model.dll
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\View\bin\Debug\Model.pdb
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\View\obj\Debug\View.exe
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\View\obj\Debug\View.pdb

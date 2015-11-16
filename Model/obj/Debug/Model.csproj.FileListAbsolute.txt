@@ -1,0 +1,5 @@
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\Model\bin\Debug\Model.dll
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\Model\bin\Debug\Model.pdb
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\Model\obj\Debug\Model.dll
+c:\users\egor\documents\visual studio 2015\Projects\MITA.CatShop\Model\obj\Debug\Model.pdb
